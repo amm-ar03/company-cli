@@ -1,4 +1,0 @@
-librosa
-openai==0.27.7
-youtube_dl
-soundfile
